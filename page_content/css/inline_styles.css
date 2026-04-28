@@ -1,0 +1,113 @@
+
+    .nicci-rating-star-block .nicci-star.nicci-outline {
+        background: url("https://niccicms.raj.nic.in/nicci/nicci/images/star-empty-lg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    }
+
+    .nicci-rating-star-block .nicci-star.nicci-filled {
+        background: url("https://niccicms.raj.nic.in/nicci/nicci/images/star-fill-lg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    }
+
+    #niccidiv .post-bot {
+        background: #eeb049 !important;
+        color: white !important;
+    }
+
+    #niccidiv #start-chat {
+        background: #ff9800 !important;
+    }
+
+    /* #niccidiv .post-bot:after {
+        border-left-color: #eeb049 !important;
+    }*/
+    #niccidiv #message-board .post-bot {
+        background: #eeb049 !important;
+    }
+
+    .blink_status {
+        animation: blinker 1.5s linear infinite;
+    }
+
+    #Niccislideshow {
+        background: white !important;
+    }
+
+    @keyframes blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+
+    #niccidiv #message-board .niccitgd li.niccitag {
+        border: 1px solid #eeb049;
+    }
+
+        #niccidiv #message-board .niccitgd li.niccitag:hover {
+            background: #eeb049;
+            color: white;
+        }
+
+    #niccidiv .niccciblink {
+        animation: blink 2.1s steps(5, start) infinite;
+        -webkit-animation: blink 2.1s steps(5, start) infinite;
+    }
+
+    
+
+    @keyframes blink {
+        to {
+            visibility: hidden;
+        }
+    }
+
+    @-webkit-keyframes blink {
+        to {
+            visibility: hidden;
+        }
+    }
+
+    #Niccisearchcontent::after {
+        content: '';
+        position: absolute;
+        bottom: 100%;
+        left: calc(40px);
+        background: #eeb049 !important;
+        width: 20px;
+        height: 20px;
+        /* The points are: (left top: x y, right top: x y, center bottom: x y) */
+        clip-path: polygon(0% 100%, 100% 100%, 50% 50%);
+    }
+
+    .Niccisearchcontentcls {
+        border-radius: 10px 10px;
+        display: none;
+        background: #eeb049 !important;
+        padding: 5px;
+        font-size: 12px;
+        color: white;
+        border-bottom: 1px solid white;
+        border-top: 1px solid white;
+        position: absolute !important;
+        top: 80px;
+        margin: 5px;
+        z-index: 9999 !important;
+    }
+
+    /*#Niccisearchslide[title]:hover:after {
+        content: 'Advanced Search';
+        position: absolute;
+        z-index: 99999999999;
+        top: 20px;
+        left: 0;
+        background: gray;
+        padding: 2px 3px;
+        color: white;
+        border-radius: 5px;
+    }    */
+    #btnConnect {position: absolute;
+    float: right;
+    right: -130px;
+    top: 21px;
+    border-radius: 2px;
+    background: #4073bf;
+    color: white;
+    text-decoration: blink;}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.005" height="24" viewBox="0 0 24.005 24">
+  <g id="sitemap" transform="translate(24.005) rotate(90)">
+    <g id="data" transform="translate(0)">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(0)" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M4.5,2.252A2.251,2.251,0,1,1,2.251,0,2.251,2.251,0,0,1,4.5,2.252Z" transform="translate(17.746 9.751)" fill="#1a4d57"/>
+      <path id="Vector-3" data-name="Vector" d="M4.5,2.252A2.251,2.251,0,1,1,2.251,0,2.251,2.251,0,0,1,4.5,2.252Z" transform="translate(17.746 1.751)" fill="#1a4d57"/>
+      <path id="Vector-4" data-name="Vector" d="M4.5,2.252A2.251,2.251,0,1,1,2.251,0,2.251,2.251,0,0,1,4.5,2.252Z" transform="translate(17.746 17.75)" fill="#1a4d57"/>
+      <path id="Vector-5" data-name="Vector" d="M4.5,2.252A2.251,2.251,0,1,1,2.251,0,2.251,2.251,0,0,1,4.5,2.252Z" transform="translate(1.751 9.751)" fill="#1a4d57"/>
+      <path id="Vector-6" data-name="Vector" d="M14.745,9.5a.75.75,0,0,0,0-1.5H7.5V3.75c0-1.58.67-2.25,2.249-2.25h5a.755.755,0,0,0,.75-.75.755.755,0,0,0-.75-.75h-5A3.38,3.38,0,0,0,6,3.75V8H.75a.75.75,0,0,0,0,1.5H6v4.25A3.38,3.38,0,0,0,9.747,17.5h5a.75.75,0,0,0,0-1.5h-5C8.167,16,7.5,15.33,7.5,13.75V9.5Z" transform="translate(4.253 3.252)" fill="#1a4d57" opacity="0.4"/>
+    </g>
+  </g>
+</svg>

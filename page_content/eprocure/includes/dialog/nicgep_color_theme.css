@@ -1,0 +1,126 @@
+/* Green Color */
+
+.primaryBg{
+	background-color: #1a4d57;
+}
+.secondaryBg{
+	background-color: #2f6b77;
+}
+.primaryTxt{
+	background-color: #1a4d57;
+}
+.secondaryTxt{
+	background-color: #2f6b77;
+}
+A.link1 {
+	COLOR: #2f6b77;
+}
+A.link2 {
+	COLOR: #2f6b77;
+}
+A.link2:hover {
+	COLOR: #2f6b77;
+}
+A.footerlink:hover {
+	COLOR: #fedc97;
+}
+a.Menu:hover {
+	COLOR: #fedc97;
+}
+a.Clickhere {
+	COLOR:#2f6b77;
+}
+a.Clickhere:hover {
+	COLOR: #2f6b77;
+}
+.text2 {
+	COLOR:#2f6b77;
+}
+.tablebg {
+	border: 1px solid #1a4d57;
+}
+.pageheader {
+	color: #2f6b77;
+}
+.textbold2 {
+	COLOR: #2f6b77; 
+}
+.message_box{
+	color:#2f6b77 !important;
+}
+.error{
+	color: #ce4912;
+}
+a{
+	color:#2f6b77;
+}
+
+a:hover{
+	color:#1a4d57;
+}
+
+a.brown_link{
+    color:#2f6b77;
+}
+
+a.brown_link:hover{
+    color:#1a4d57;
+}
+a.brown_link_white{
+    color: #ffffff;
+    text-decoration:none;
+}
+a.brown_link_white:hover{
+    color: #ffffff;
+    text-decoration:underline;
+}
+#menu4 li a:link, #menu4 li a:visited {
+	color: #ffffff;
+}
+#menu4 li a:hover {
+	color: #ffffff;
+}
+.list_header td{
+	COLOR:#1a4d57;
+}
+.notes{
+	color:#2f6b77;
+}
+.td_column{
+	color: #000000;
+}
+.page_header_text{
+	color: #2f6b77;
+}
+.page_header{
+	color: #2f6b77;
+}
+.notice_strip{
+	background-color: #1a4d57;
+	border: 1px solid #3d8b9b;
+}
+.textbox2 {
+	border: 1px solid #93d2df;
+    background-color: #b2cdd3;
+}
+.customButton {
+	border: 1px solid #59adbd;
+	color: #000;
+	text-shadow: 0 0 0 #fff;
+	background: rgb(97,178,195);
+	background: linear-gradient(180deg, rgb(127, 201, 216) 0%, rgba(243,253,255,1) 100%);
+}
+a.customButton_link{
+	border: 1px solid #59adbd;
+	color: #000;
+	text-shadow: 0 0 0 #fff;
+	background: rgb(97,178,195);
+	background: linear-gradient(180deg, rgb(127, 201, 216) 0%, rgba(243,253,255,1) 100%);
+}
+.topBannerGradient{
+	background: rgb(8,34,46);
+	background: linear-gradient(137deg, rgb(2, 22, 26) 0%, rgb(2, 22, 26) 15%, rgb(2, 22, 26) 20%, rgb(1, 40, 59) 29%, rgb(2, 52, 75) 50%, rgb(0, 67, 99) 60%, rgb(2, 94, 116) 70%,rgb(2, 115, 132) 73%, rgb(2, 116, 133) 77%, rgb(2, 88, 112) 80%, rgb(2, 67, 92) 83%, rgb(2, 62, 88) 87%, rgb(2, 56, 79) 90%, rgba(8,34,46,1) 100%);
+}
+.topBannerLine{
+	background-color:#235b66;
+}

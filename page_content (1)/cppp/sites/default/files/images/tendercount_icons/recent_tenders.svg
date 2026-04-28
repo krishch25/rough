@@ -1,0 +1,20 @@
+<svg id="Recent_tenders" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.782" height="50.782" viewBox="0 0 50.782 50.782">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe548"/>
+      <stop offset="0.176" stop-color="#ffde50"/>
+      <stop offset="0.445" stop-color="#ffca65"/>
+      <stop offset="0.771" stop-color="#ffaa87"/>
+      <stop offset="1" stop-color="#ff90a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b1d57"/>
+      <stop offset="1" stop-color="#33176c"/>
+    </linearGradient>
+  </defs>
+  <g id="clock">
+    <path id="Vector" d="M42.319,21.159A21.159,21.159,0,1,1,21.159,0,21.159,21.159,0,0,1,42.319,21.159Z" transform="translate(3.906 4.232)" fill="url(#linear-gradient)"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0H50.782V50.782H0Z" fill="none" opacity="0"/>
+    <path id="Icon_material-history" data-name="Icon material-history" d="M15.563,4.5A10.548,10.548,0,0,0,5.016,15.047H1.5l4.559,4.559.082.164,4.734-4.723H7.359a8.243,8.243,0,1,1,2.414,5.789L8.11,22.5a10.544,10.544,0,1,0,7.453-18Zm-1.172,5.859v5.859L19.407,19.2l.844-1.418-4.1-2.438V10.359Z" transform="translate(11 10.344)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

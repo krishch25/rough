@@ -1,0 +1,22 @@
+<svg id="Search_tender" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.782" height="50.782" viewBox="0 0 50.782 50.782">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe548"/>
+      <stop offset="0.176" stop-color="#ffde50"/>
+      <stop offset="0.445" stop-color="#ffca65"/>
+      <stop offset="0.771" stop-color="#ffaa87"/>
+      <stop offset="1" stop-color="#ff90a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b1d57"/>
+      <stop offset="1" stop-color="#33176c"/>
+    </linearGradient>
+  </defs>
+  <g id="search-status">
+    <path id="Vector" d="M38.129,19.064A19.064,19.064,0,1,1,19.064,0,19.064,19.064,0,0,1,38.129,19.064Z" transform="translate(4.211 4.211)" fill="url(#linear-gradient)"/>
+    <path id="Vector-2" data-name="Vector" d="M14.283,3.174H1.587A1.6,1.6,0,0,1,0,1.587,1.6,1.6,0,0,1,1.587,0h12.7a1.6,1.6,0,0,1,1.587,1.587A1.6,1.6,0,0,1,14.283,3.174Z" transform="translate(15.34 18.514)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-3" data-name="Vector" d="M7.935,3.174H1.587A1.6,1.6,0,0,1,0,1.587,1.6,1.6,0,0,1,1.587,0H7.935A1.6,1.6,0,0,1,9.522,1.587,1.6,1.6,0,0,1,7.935,3.174Z" transform="translate(15.34 24.862)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-4" data-name="Vector" d="M8.447,2.01C7.749.719,6.267,0,4.278,0A4.274,4.274,0,0,0,.724,1.672,4.294,4.294,0,0,0,.258,5.565c.91,2.751,2.5,3.364,3.364,3.47a2.43,2.43,0,0,0,.4.021c.931,0,2.37-.4,3.766-2.5A4.359,4.359,0,0,0,8.447,2.01Z" transform="translate(38.083 38.087)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-5" data-name="Vector" d="M0,0H50.782V50.782H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

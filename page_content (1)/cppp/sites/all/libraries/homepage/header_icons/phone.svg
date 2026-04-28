@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Phone" transform="translate(-236 -188)">
+    <g id="brush">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(236 188)" fill="none" opacity="0"/>
+    </g>
+    <path id="Icon_awesome-phone-alt" data-name="Icon awesome-phone-alt" d="M15.351,11.166,11.894,9.685a.741.741,0,0,0-.864.213L9.5,11.768A11.44,11.44,0,0,1,4.031,6.3L5.9,4.769A.739.739,0,0,0,6.114,3.9L4.633.448A.746.746,0,0,0,3.784.019L.574.76A.741.741,0,0,0,0,1.482,14.319,14.319,0,0,0,14.32,15.8a.741.741,0,0,0,.722-.574l.741-3.21a.75.75,0,0,0-.432-.852Z" transform="translate(240 192)" fill="#fff"/>
+  </g>
+</svg>

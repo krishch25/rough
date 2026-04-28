@@ -1,0 +1,23 @@
+<svg id="AOC" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.782" height="50.782" viewBox="0 0 50.782 50.782">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe548"/>
+      <stop offset="0.176" stop-color="#ffde50"/>
+      <stop offset="0.445" stop-color="#ffca65"/>
+      <stop offset="0.771" stop-color="#ffaa87"/>
+      <stop offset="1" stop-color="#ff90a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b1d57"/>
+      <stop offset="1" stop-color="#33176c"/>
+    </linearGradient>
+  </defs>
+  <g id="cup">
+    <path id="Vector" d="M26.978,9.606H24.862V9.077A4.244,4.244,0,0,0,20.63,4.845H15.869V0a13.293,13.293,0,0,1-1.587.085A13.293,13.293,0,0,1,12.7,0V4.845H7.935A4.244,4.244,0,0,0,3.7,9.077v.529H1.587a1.587,1.587,0,0,0,0,3.174H26.978a1.587,1.587,0,0,0,0-3.174Z" transform="translate(11.109 33.77)" fill="url(#linear-gradient)"/>
+    <path id="Vector-2" data-name="Vector" d="M6.856,15.637a10.352,10.352,0,0,1-3.6-2.37A11.551,11.551,0,0,1,0,5.438,5.383,5.383,0,0,1,5.438,0H6.623a8.364,8.364,0,0,0-.868,3.7v6.348A14.374,14.374,0,0,0,6.856,15.637Z" transform="translate(4.824 8.993)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-3" data-name="Vector" d="M6.856,5.438A11.551,11.551,0,0,1,3.6,13.267,10.352,10.352,0,0,1,0,15.637a14.374,14.374,0,0,0,1.1-5.586V3.7A8.364,8.364,0,0,0,.233,0H1.418A5.383,5.383,0,0,1,6.856,5.438Z" transform="translate(39.102 8.993)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-4" data-name="Vector" d="M21.159,0H8.464A8.461,8.461,0,0,0,0,8.464v6.348a14.811,14.811,0,0,0,29.623,0V8.464A8.461,8.461,0,0,0,21.159,0Zm-.339,13.648-1.312,1.608a1.59,1.59,0,0,0-.339,1.016l.127,2.074a1.36,1.36,0,0,1-2.01,1.46l-1.925-.762a1.947,1.947,0,0,0-1.1,0l-1.925.762a1.36,1.36,0,0,1-2.01-1.46l.127-2.074a1.59,1.59,0,0,0-.339-1.016L8.8,13.648a1.363,1.363,0,0,1,.762-2.37l2.01-.508a1.68,1.68,0,0,0,.868-.656l1.121-1.735a1.367,1.367,0,0,1,2.5,0l1.121,1.735a1.68,1.68,0,0,0,.868.656l2.01.508A1.363,1.363,0,0,1,20.821,13.648Z" transform="translate(10.58 4.232)" fill="url(#linear-gradient)"/>
+    <path id="Vector-5" data-name="Vector" d="M12.464,6.078,11.152,7.686A1.59,1.59,0,0,0,10.814,8.7l.127,2.074a1.36,1.36,0,0,1-2.01,1.46L7,11.474a1.947,1.947,0,0,0-1.1,0l-1.925.762a1.36,1.36,0,0,1-2.01-1.46L2.1,8.7a1.59,1.59,0,0,0-.339-1.016L.445,6.078a1.363,1.363,0,0,1,.762-2.37L3.217,3.2a1.68,1.68,0,0,0,.868-.656L5.206.809a1.367,1.367,0,0,1,2.5,0L8.825,2.544a1.68,1.68,0,0,0,.868.656l2.01.508A1.363,1.363,0,0,1,12.464,6.078Z" transform="translate(18.936 11.802)" fill="url(#linear-gradient-2)"/>
+    <path id="Vector-6" data-name="Vector" d="M0,0H50.782V50.782H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

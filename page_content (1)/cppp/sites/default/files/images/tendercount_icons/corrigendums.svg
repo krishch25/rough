@@ -1,0 +1,28 @@
+<svg id="Corrigendum" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.782" height="50.782" viewBox="0 0 50.782 50.782">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe548"/>
+      <stop offset="0.176" stop-color="#ffde50"/>
+      <stop offset="0.445" stop-color="#ffca65"/>
+      <stop offset="0.771" stop-color="#ffaa87"/>
+      <stop offset="1" stop-color="#ff90a4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b1d57"/>
+      <stop offset="1" stop-color="#33176c"/>
+    </linearGradient>
+  </defs>
+  <g id="Fill_Corrigendum">
+    <g id="archive-book">
+      <path id="Vector" d="M0,0H50.782V50.782H0Z" transform="translate(50.782 50.782) rotate(180)" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M38.087,10.58V31.739c0,6.348-3.174,10.58-10.58,10.58H10.58C3.174,42.319,0,38.087,0,31.739V10.58C0,4.232,3.174,0,10.58,0H27.507C34.913,0,38.087,4.232,38.087,10.58Z" transform="translate(6.348 4.232)" fill="url(#linear-gradient)"/>
+      <path id="Vector-3" data-name="Vector" d="M14.811,0V16.631a1.062,1.062,0,0,1-1.777.783L8.125,12.886a1.049,1.049,0,0,0-1.439,0L1.777,17.414A1.057,1.057,0,0,1,0,16.631V0Z" transform="translate(17.985 4.232)" fill="url(#linear-gradient-2)"/>
+      <g id="Group" transform="translate(26.449 28.036)">
+        <path id="Vector-4" data-name="Vector" d="M10.58,3.174H1.587A1.6,1.6,0,0,1,0,1.587,1.6,1.6,0,0,1,1.587,0H10.58a1.6,1.6,0,0,1,1.587,1.587A1.6,1.6,0,0,1,10.58,3.174Z" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(17.456 36.5)">
+        <path id="Vector-5" data-name="Vector" d="M19.572,3.174H1.587A1.6,1.6,0,0,1,0,1.587,1.6,1.6,0,0,1,1.587,0H19.572a1.6,1.6,0,0,1,1.587,1.587A1.6,1.6,0,0,1,19.572,3.174Z" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

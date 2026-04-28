@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="facebook" transform="translate(-236 -188)">
+    <g id="brush">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(236 188)" fill="none" opacity="0"/>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M10.956,10.5l.519-3.38H8.231V4.931a1.69,1.69,0,0,1,1.905-1.826h1.474V.228A17.978,17.978,0,0,0,8.994,0C6.324,0,4.578,1.619,4.578,4.549V7.125H1.609V10.5H4.578v8.17H8.231V10.5Z" transform="translate(241.391 191)" fill="#fff"/>
+  </g>
+</svg>

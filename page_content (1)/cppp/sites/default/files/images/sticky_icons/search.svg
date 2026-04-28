@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.001" height="24.001" viewBox="0 0 24.001 24.001">
+  <g id="search" transform="translate(0 -0.001)">
+    <g id="search-status" transform="translate(0 0.001)">
+      <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M14.813,7.406A7.406,7.406,0,1,1,7.406,0,7.406,7.406,0,0,1,14.813,7.406Z" transform="translate(2 2.871)" fill="#1a4d57" opacity="0.4"/>
+      <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search" d="M23.994,22.8l-5.486-5.537a7.818,7.818,0,1,0-1.187,1.2l5.45,5.5a.844.844,0,0,0,1.192.031A.85.85,0,0,0,23.994,22.8Zm-11.63-4.269a6.173,6.173,0,1,1,4.366-1.808A6.135,6.135,0,0,1,12.364,18.527Z" transform="translate(-2.5 -2.493)" fill="#1a4d57"/>
+    </g>
+  </g>
+</svg>
